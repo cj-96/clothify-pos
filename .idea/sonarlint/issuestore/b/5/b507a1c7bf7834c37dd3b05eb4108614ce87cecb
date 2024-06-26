@@ -1,0 +1,19 @@
+
+g	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¤Æ›Ö‚2
+g	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¤Æ›Ö‚2
+J
+java:S11217".Extract the assignment out of this expression.(™½Þr8¦Æ›Ö‚2
+J
+java:S5411"(Use a primitive boolean expression here.(âÉƒÎýÿÿÿÿ8¨Æ›Ö‚2
+J
+java:S5411 "(Use a primitive boolean expression here.(à˜¯€þÿÿÿÿ8¨Æ›Ö‚2
+_
+java:S11631"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8©Æ›Ö‚2
+V
+java:S11431"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8ªÆ›Ö‚2
+j
+java:S2259/"HA "NullPointerException" could be thrown; "connection" is nullable here.(Øîð€ýÿÿÿÿ8úä«õ‚2
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ùê„Äüÿÿÿÿ8üä«õ‚2
+¶
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(™ ¨Œ8²Æ›Ö‚2

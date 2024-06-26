@@ -1,0 +1,12 @@
+
+	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8óõ¸Ö‚2J$0615f5fd-c8b0-4a3e-b82f-50521ca6c7e6
+	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ôõ¸Ö‚2J$92d604e7-e3d6-4c3f-9060-52808a2765e4
+	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ôõ¸Ö‚2J$e8a1ae0b-4746-4e80-9e13-f669d5029e01
+q
+java:S1121U".Extract the assignment out of this expression.(©µÀ8õõ¸Ö‚2J$a4c78818-5d9f-4087-8a93-198590f25938
+p
+java:S5411C"(Use a primitive boolean expression here.(üñ€Òüÿÿÿÿ8÷õ¸Ö‚2J$98a42d03-b715-467a-8772-a5e4b1849e2d
+Ü
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Ì½ÍÒ8†ö¸Ö‚2J$e45e677b-9eae-4271-b476-d8cc846d4d83
+G	java:S106B"+Replace this use of System.out by a logger.(şêû®8¹ˆâÖ‚2
+G	java:S106D"+Replace this use of System.out by a logger.(şêû®8¹ˆâÖ‚2
