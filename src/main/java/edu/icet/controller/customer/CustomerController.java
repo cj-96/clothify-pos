@@ -17,7 +17,7 @@ public class CustomerController {
 
     private CustomerController(){}
 
-    CustomerBo customerBo = BoFactory.getInstance().getBo(BoType.CUSTOMER);
+
 
     public Boolean addCustomer(Customer customer){
         try {

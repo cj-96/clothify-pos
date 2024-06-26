@@ -14,7 +14,10 @@ public class CustomerDaoImpl implements CustomerDao {
     public boolean save(CustomerEntity entity) {
         Session session = HibernateUtil.getSession();
         session.getTransaction().begin();
-
+        session.persist(entity);
+        session.getTransaction().commit();
+        session.close();
+        return true;
 
 //        try {
 //            String sql = ("INSERT INTO customer VALUES (?,?,?,?,?,?,?,?,?)");
