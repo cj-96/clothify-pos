@@ -7,10 +7,11 @@ import lombok.*;
 @ToString
 @AllArgsConstructor
 @NoArgsConstructor
-public class User {
+public class Supplier {
 
-    private String userName;
-    private String password;
+    private String id;
+    private String name;
+    private String contact;
     private String email;
-    private String userType;
+    private String company;
 }

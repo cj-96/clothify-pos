@@ -2,11 +2,9 @@ package edu.icet.dao.custom.impl;
 
 import edu.icet.dao.custom.CustomerDao;
 import edu.icet.entity.CustomerEntity;
-import edu.icet.util.CrudUtil;
 import edu.icet.util.HibernateUtil;
 import org.hibernate.Session;
 
-import java.sql.SQLException;
 
 public class CustomerDaoImpl implements CustomerDao {
 

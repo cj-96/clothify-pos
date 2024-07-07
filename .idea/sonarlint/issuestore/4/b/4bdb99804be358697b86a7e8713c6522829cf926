@@ -69,8 +69,8 @@ java:S11040"SMake colCity a static final constant or non-public and provide acc
 java:S11041"WMake colProvince a static final constant or non-public and provide accessors if needed.(®ôš¢8¾–‘•…2J$7c113f4e-5312-420b-aab3-188be4e713e8
 ¡
 java:S11042"YMake colPostalCode a static final constant or non-public and provide accessors if needed.(çÄ©µúÿÿÿÿ8¾–‘•…2J$79e9080a-a740-4fd4-8be8-eb2ace5fd655
-
-java:S2095›"GUse try-with-resources or close this "Statement" in a "finally" clause.(ƒ…Ù†üÿÿÿÿ8ö’ï˜…2J$bbad0e4b-844b-4435-acad-f348265ab4ad
+j
+java:S2095›"GUse try-with-resources or close this "Statement" in a "finally" clause.(ƒ…Ù†üÿÿÿÿ8Ğï³ˆ2
 Ê
 java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿˜å•øÿÿÿÿ8ß–‘•…2J$515a60bc-fbd2-43a8-a687-ab6b82e60d3e
 z
@@ -82,13 +82,13 @@ java:S1172˜"2Remove this unused method parameter "actionEvent".(Œ“‘8õ–‘•…2J$
 n	java:S106œ"+Replace this use of System.out by a logger.(ÀÚğ×8ö–‘•…2J$e69e3c05-e7b0-460b-8bc7-2bbbb119f1dc
 s	java:S106¡"+Replace this use of System.out by a logger.(˜Èøÿÿÿÿ8÷–‘•…2J$c14e32a4-b638-4f15-b412-56d26701d49f
 n	java:S106£"+Replace this use of System.out by a logger.(Ùˆ¶8ø–‘•…2J$1b8e2896-f20b-464a-8d3d-56b4e2a1bcd8
-µ
-java:S1130«"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ÂÉ‡°8‚”ï˜…2J$f0eb560a-da48-45bf-ae0d-622c978d0ed1
+
+java:S1130«"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ÂÉ‡°8àõ³ˆ2
 v
 java:S1172«"2Remove this unused method parameter "actionEvent".(ÂÉ‡°8ù–‘•…2J$60948da9-5300-4bb4-a5ae-c0c654fd5661
-v
-java:S1128".Remove this unused import 'java.time.Instant'.(Â‚éñÿÿÿÿÿ8†”ï˜…2J$d1dbe205-0c28-4e83-9f19-068e35836ac1
-x
-java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8†”ï˜…2J$ffe41ed0-89c6-4826-8313-5f2270c2ece5
-p
-java:S1128"-Remove this unused import 'java.time.ZoneId'.( Æ½“8†”ï˜…2J$bdaa4d7f-1994-4f1d-a6bd-e45e9c44a305
+P
+java:S1128".Remove this unused import 'java.time.Instant'.(Â‚éñÿÿÿÿÿ8äõ³ˆ2
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8äõ³ˆ2
+J
+java:S1128"-Remove this unused import 'java.time.ZoneId'.( Æ½“8äõ³ˆ2

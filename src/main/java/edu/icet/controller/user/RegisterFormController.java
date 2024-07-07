@@ -1,4 +1,4 @@
-package edu.icet.controller;
+package edu.icet.controller.user;
 
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXComboBox;
@@ -15,6 +15,9 @@ import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Alert;
+import javafx.scene.input.InputMethodEvent;
+import javafx.scene.input.KeyEvent;
+import javafx.scene.paint.Paint;
 import org.hibernate.Session;
 import org.hibernate.annotations.processing.SQL;
 import org.hibernate.query.Query;
@@ -72,6 +75,8 @@ public class RegisterFormController implements Initializable {
     }
 
     public void rbtnShowPasswordOnAction(ActionEvent actionEvent) {
+        txtPassword.setVisible(true);
+        txtConfirmPassword.setVisible(true);
     }
 
     public void btnRegisterOnAction(ActionEvent actionEvent) {
@@ -98,5 +103,17 @@ public class RegisterFormController implements Initializable {
 
     public void cmbUserTypeOnAction(ActionEvent actionEvent) {
         System.out.println(cmbUserType.getSelectionModel().getSelectedItem().toString());
+    }
+
+
+
+    public void txtConfirmPwdOnKeyReleased(KeyEvent keyEvent) {
+        if(txtPassword.getText().equals(txtConfirmPassword.getText())){
+            btnRegister.setDisable(false);
+            txtConfirmPassword.setFocusColor(Paint.valueOf("4059a9"));
+        }else{
+            btnRegister.setDisable(true);
+            txtConfirmPassword.setFocusColor(Paint.valueOf("c80815"));
+        }
     }
 }

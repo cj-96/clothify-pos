@@ -1,7 +1,4 @@
 
-—
-java:S2095
-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(à³İ’úÿÿÿÿ8Ô‹Ğ°2J$31f96335-0fbf-4089-980a-00b2a380554d
 ‚
 java:S1118":Add a private constructor to hide the implicit public one.(ş¼¬·ÿÿÿÿÿ8Ö‹Ğ°2J$5a8dfba3-0c40-46cf-b5ad-2c42116b3c47
 

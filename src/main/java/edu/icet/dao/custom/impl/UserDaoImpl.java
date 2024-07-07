@@ -49,4 +49,42 @@ public class UserDaoImpl implements UserDao {
             session.close();
         }
     }
+
+    @Override
+    public boolean isExist(String email) {
+        System.out.println("hi");
+        Session session = HibernateUtil.getSession();
+        try {
+            session.getTransaction().begin();
+            String sql = "FROM UserEntity WHERE email = :email";
+            Query query = session.createQuery(sql);
+            query.setParameter("email", email);
+
+            boolean exists = !query.getResultList().isEmpty();
+
+            session.getTransaction().commit();
+            return exists;
+        } catch (Exception e) {
+            return false;
+        } finally {
+            session.close();
+        }
+    }
+
+    @Override
+    public boolean updatePassword(String password, String email) {
+        Session session = HibernateUtil.getSession();
+        session.getTransaction().begin();
+        String sql = "UPDATE UserEntity SET password = :password WHERE email = :email";
+        Query query = session.createQuery(sql);
+        query.setParameter("password", password);
+        query.setParameter("email", email);
+        int i = query.executeUpdate();
+        session.getTransaction().commit();
+        session.close();
+        if(i>0){
+            return true;
+        }
+        return false;
+    }
 }

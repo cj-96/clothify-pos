@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="550.0" prefWidth="800.0" style="-fx-background-color: #f5f0e1;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.OrderFormController">
+   <children>
+      <Rectangle arcHeight="30.0" arcWidth="30.0" fill="#1e3d59" height="59.0" layoutX="227.0" layoutY="27.0" stroke="BLACK" strokeType="INSIDE" width="311.0" />
+      <Label layoutX="328.0" layoutY="28.0" text="Order" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="40.0" />
+         </font>
+      </Label>
+      <JFXTextField layoutX="60.0" layoutY="125.0" promptText="Order ID" />
+      <JFXTextField layoutX="60.0" layoutY="167.0" promptText="Customer Name" />
+      <JFXTextField layoutX="60.0" layoutY="211.0" promptText="Customer Contact" />
+   </children>
+</AnchorPane>

@@ -4,7 +4,11 @@ import edu.icet.dao.CrudDao;
 import edu.icet.entity.UserEntity;
 
 public interface UserDao extends CrudDao<UserEntity> {
-    public boolean delete(String username, String password);
+    boolean delete(String username, String password);
 
-    public boolean isExist(String username, String password);
+    boolean isExist(String username, String password);
+
+    boolean isExist(String email);
+
+    boolean updatePassword(String password, String email);
 }

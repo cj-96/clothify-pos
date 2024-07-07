@@ -1,4 +1,4 @@
-package edu.icet.controller;
+package edu.icet.controller.user;
 
 
 import com.jfoenix.controls.JFXPasswordField;

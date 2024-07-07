@@ -10,8 +10,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-
-<AnchorPane prefHeight="558.0" prefWidth="660.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.RegisterFormController">
+<AnchorPane prefHeight="558.0" prefWidth="660.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.user.RegisterFormController">
    <children>
       <Label layoutX="218.0" layoutY="27.0" text="User Registration">
          <font>
@@ -27,7 +26,7 @@
       <JFXTextField fx:id="txtEmail" layoutX="48.0" layoutY="381.0" prefHeight="25.0" prefWidth="158.0" promptText="Email" />
       <JFXComboBox fx:id="cmbUserType" layoutX="48.0" layoutY="442.0" onAction="#cmbUserTypeOnAction" prefHeight="25.0" prefWidth="158.0" promptText="User Type" />
       <JFXPasswordField fx:id="txtPassword" layoutX="294.0" layoutY="326.0" prefHeight="25.0" prefWidth="158.0" promptText="Password" />
-      <JFXPasswordField fx:id="txtConfirmPassword" layoutX="294.0" layoutY="381.0" prefHeight="25.0" prefWidth="158.0" promptText="Confirm Password" />
+      <JFXPasswordField fx:id="txtConfirmPassword" layoutX="294.0" layoutY="381.0" onKeyReleased="#txtConfirmPwdOnKeyReleased" prefHeight="25.0" prefWidth="158.0" promptText="Confirm Password" />
       <JFXRadioButton layoutX="279.0" layoutY="434.0" onAction="#rbtnShowPasswordOnAction" prefHeight="17.0" prefWidth="141.0" text="Show Password" />
       <JFXButton fx:id="btnRegister" buttonType="RAISED" layoutX="554.0" layoutY="381.0" onAction="#btnRegisterOnAction" prefHeight="25.0" prefWidth="75.0" style="-fx-background-color: green;" text="Register" textFill="WHITE" />
       <JFXButton buttonType="RAISED" layoutX="554.0" layoutY="503.0" onAction="#btnBackOnAction" prefHeight="25.0" prefWidth="75.0" style="-fx-background-color: black;" text="Back" textFill="WHITE" />

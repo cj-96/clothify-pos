@@ -9,5 +9,9 @@ public interface UserBo extends SuperBo {
 
     Boolean isExist(String username,String password);
 
+    Boolean isExist(String email);
+
     Boolean delete(String username, String password);
+
+    boolean updatePassword(String text, String text1);
 }

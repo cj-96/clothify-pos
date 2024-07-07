@@ -24,7 +24,17 @@ public class UserBoImpl implements UserBo {
     }
 
     @Override
+    public Boolean isExist(String email) {
+        return userDao.isExist(email);
+    }
+
+    @Override
     public Boolean delete(String username, String password) {
         return null;
+    }
+
+    @Override
+    public boolean updatePassword(String password, String email) {
+        return userDao.updatePassword(password,email);
     }
 }

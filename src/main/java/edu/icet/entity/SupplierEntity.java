@@ -12,12 +12,12 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-public class UserEntity {
-
+public class SupplierEntity {
     @Id
-    private Integer id;
-    private String userName;
-    private String password;
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private String id;
+    private String name;
+    private String contact;
     private String email;
-    private String userType;
+    private String company;
 }
