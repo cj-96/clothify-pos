@@ -10,8 +10,7 @@
 <?import javafx.scene.shape.Rectangle?>
 <?import javafx.scene.text.Font?>
 
-
-<AnchorPane fx:id="txtContact" prefHeight="550.0" prefWidth="829.0" style="-fx-background-color: #f5f0e1;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.SuppliersFormController">
+<AnchorPane prefHeight="550.0" prefWidth="829.0" style="-fx-background-color: #f5f0e1;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.SupplierFormController">
    <children>
       <Rectangle arcHeight="30.0" arcWidth="30.0" fill="#1e3d59" height="56.0" layoutX="322.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="200.0" />
       <Label layoutX="357.0" layoutY="20.0" text="Suppliers" textFill="WHITE">
@@ -24,7 +23,7 @@
             <Font name="System Bold" size="15.0" />
          </font>
       </Label>
-      <JFXTextField fx:id="txtSupplierId" editable="false" layoutX="149.0" layoutY="105.0" prefHeight="25.0" prefWidth="93.0" />
+      <JFXTextField fx:id="txtSupplierId" layoutX="149.0" layoutY="105.0" prefHeight="25.0" prefWidth="93.0" />
       <Label layoutX="50.0" layoutY="161.0" prefHeight="21.0" prefWidth="119.0" text="Name :">
          <font>
             <Font name="System Bold" size="15.0" />

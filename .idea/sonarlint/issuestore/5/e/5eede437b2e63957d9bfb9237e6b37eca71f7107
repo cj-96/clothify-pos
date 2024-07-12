@@ -1,10 +1,8 @@
 
 q
-java:S1121".Extract the assignment out of this expression.(Ùûé‘8ëô¶ÿ„2J$3302e42b-0258-49b2-b56c-895934293a24
-‡
-java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•J$db91fb61-43cc-4aed-8fdc-f5e8913dd335
+java:S1121".Extract the assignment out of this expression.(Ùûé‘8ëô¶ÿ„2J$48a59619-eeea-447a-b0ed-fbef6bb8f456
 Ü
-java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ÄßÜê8”Æ·ÿ„2J$0eff80a3-ea8f-4d9c-b81f-c8f9316d7fcf
-›	java:S131"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÜŸ•8¥Ì„û„2J$6428b034-f66d-443e-b1f3-0bf875fd7e41
+java:S6548	"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ÄßÜê8”Æ·ÿ„2J$00d1f09a-3d1a-4d21-9c76-afe303c4939e
+›	java:S131"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÜŸ•8¥Ì„û„2J$087fc9d8-b148-4848-ad06-5ece43361787
 t
-java:S1128"1Remove this unused import 'edu.icet.util.BoType'.(çÚ¡¹8Ï‹åª…2J$4fe59d2f-c471-4942-bec3-53c39a2c8873
+java:S1128"1Remove this unused import 'edu.icet.util.BoType'.(çÚ¡¹8¾†´´‰2J$75329ff5-0fa3-4d91-8793-9e5b3541dbeb

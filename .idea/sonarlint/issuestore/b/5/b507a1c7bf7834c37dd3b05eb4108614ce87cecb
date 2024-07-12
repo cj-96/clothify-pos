@@ -1,19 +1,19 @@
 
-	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¤Æ›Ö‚2J$23ee4696-479c-4b15-8603-3a5ba0ec97bd
-	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¤Æ›Ö‚2J$74d11bf3-b1f0-475b-abd1-37f32f89244d
+	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¤Æ›Ö‚2J$df6b8198-2071-46fc-b27d-338eb77211f9
+	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¤Æ›Ö‚2J$9af6e693-0523-4982-80e3-75d612f36d5f
 p
-java:S11217".Extract the assignment out of this expression.(™½Şr8¦Æ›Ö‚2J$9005ef22-c1e4-48fd-a4e6-a68e848f39d9
+java:S11217".Extract the assignment out of this expression.(™½Şr8¦Æ›Ö‚2J$85d235ec-7b86-41de-99f4-6b7b7dca08a4
 p
-java:S5411"(Use a primitive boolean expression here.(âÉƒÎıÿÿÿÿ8¨Æ›Ö‚2J$dbc6f2a3-b813-47c3-b1c4-6955a53d7339
+java:S5411"(Use a primitive boolean expression here.(âÉƒÎıÿÿÿÿ8¨Æ›Ö‚2J$bb92ad32-9e33-499a-97a9-44480c5868d7
 p
-java:S5411 "(Use a primitive boolean expression here.(à˜¯€şÿÿÿÿ8¨Æ›Ö‚2J$b7b229af-cbc1-4189-89bb-8eee5a13a5b8
+java:S5411 "(Use a primitive boolean expression here.(à˜¯€şÿÿÿÿ8¨Æ›Ö‚2J$b438cb83-d2b3-44e2-9390-9d5d8835a818
 …
-java:S11631"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8©Æ›Ö‚2J$4cc7db2b-5acf-4282-b05e-c30950fdc0bf
+java:S11631"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8©Æ›Ö‚2J$dc814385-5066-4770-99ca-a33ebe132adf
 |
-java:S11431"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8ªÆ›Ö‚2J$4bb2031a-6e42-44eb-8308-f165f039ce81
+java:S11431"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8ªÆ›Ö‚2J$bc6df5d8-4700-4897-a33d-efaa3ae97c0a
 
-java:S2259/"HA "NullPointerException" could be thrown; "connection" is nullable here.(Øîğ€ıÿÿÿÿ8ƒÿˆˆ2J$2beee8a0-d1a9-46d5-a991-f268ff39fd28
+java:S2259/"HA "NullPointerException" could be thrown; "connection" is nullable here.(Øîğ€ıÿÿÿÿ8ƒÿˆˆ2J$b8d9289b-610c-422b-8ad6-abd92f66515a
 —
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ùê„Äüÿÿÿÿ8„ÿˆˆ2J$8c55b8e5-15f4-4ab6-bb47-e4c4278bdad1
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ùê„Äüÿÿÿÿ8„ÿˆˆ2J$c1b7e5b6-27e6-4a2c-8368-a39a3dc386b1
 Ü
-java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(™ ¨Œ8²Æ›Ö‚2J$6b6a5eac-7f69-45d7-9445-261a8649b8a8
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(™ ¨Œ8²Æ›Ö‚2J$fce70f35-c033-4559-a6c9-dc4f354dbd9a

@@ -1,6 +1,5 @@
 package edu.icet.dao.custom.impl;
 
-import edu.icet.dao.CrudDao;
 import edu.icet.dao.custom.UserDao;
 import edu.icet.entity.UserEntity;
 import edu.icet.util.HibernateUtil;
@@ -20,6 +19,16 @@ public class UserDaoImpl implements UserDao {
 
     @Override
     public boolean delete(String id) {
+        return false;
+    }
+
+    @Override
+    public UserEntity get(String id) {
+        return null;
+    }
+
+    @Override
+    public boolean update(UserEntity dto) {
         return false;
     }
 

@@ -87,12 +87,12 @@ public class PlaceOrderFormController implements Initializable {
     }
 
     private void setItemData(String itemCode) {
-        Items item = ItemController.getInstance().searchItem(itemCode);
+        Item item = ItemController.getInstance().searchItem(itemCode);
         System.out.println(item);
-        lblDescription.setText(item.getDesc());
-        lblPackSize.setText(item.getPackSize());
-        lblUnitPrice.setText(String.valueOf(item.getUnitPrice()));
-        lblQty.setText(String.valueOf(item.getQty()));
+//        lblDescription.setText(item.getDesc());
+//        lblPackSize.setText(item.getPackSize());
+//        lblUnitPrice.setText(String.valueOf(item.getUnitPrice()));
+//        lblQty.setText(String.valueOf(item.getQty()));
     }
 
     private void setCustomerdata(String customer) {
@@ -106,12 +106,12 @@ public class PlaceOrderFormController implements Initializable {
     }
 
     private void loadItemIds() {
-        ObservableList<Items> items = ItemController.getInstance().loadItems();
+        ObservableList<Item> items = ItemController.getInstance().loadItems();
 
         ObservableList<String> codes = FXCollections.observableArrayList();
 
         items.forEach(item -> {
-            codes.add(item.getItemCode());
+//            codes.add(item.getItemCode());
         });
 
         cmbItemCodes.setItems(codes);

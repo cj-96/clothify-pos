@@ -1,5 +1,8 @@
 
+—
+java:S2095
+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(à³İ’úÿÿÿÿ8Âòú¯‰2J$d48318ff-bdff-45fb-9708-9a81f6e3ed9e
 ‚
-java:S1118":Add a private constructor to hide the implicit public one.(ş¼¬·ÿÿÿÿÿ8Ö‹Ğ°2J$5a8dfba3-0c40-46cf-b5ad-2c42116b3c47
+java:S1118":Add a private constructor to hide the implicit public one.(ş¼¬·ÿÿÿÿÿ8Ö‹Ğ°2J$e98e4a8b-35b4-4170-9a78-4cbc8bb43a17
 
-java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "||"(‚°Ç½8Ù‹Ğ°2J$3a7c241e-04dd-4277-a934-f69e345d2644
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "||"(‚°Ç½8Ù‹Ğ°2J$7831fc68-7b74-49ec-a7cf-d26109ebf4a9

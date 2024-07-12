@@ -9,10 +9,11 @@ import lombok.ToString;
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
-public class Items {
+public class ItemDetail {
+
     private String itemCode;
-    private String desc;
-    private String packSize;
-    private Double unitPrice;
-    private Integer qty;
+    private String size;
+    private String qty;
+    private Double buyingPrice;
+    private Double sellingPrice;
 }

@@ -1,14 +1,14 @@
 
-	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8úÏÖÿ„2J$f55ab056-2d57-459b-9427-0d7c92f7f7b1
-	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8üÏÖÿ„2J$8572d8f4-675f-4880-8400-7557d66ef651
-	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÔÈãÿ„2J$5d544a5a-d3f9-489f-b347-219cc39d3243
+	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8úÏÖÿ„2J$5cf8fbd0-6933-4575-b87a-bb5e2b34799f
+	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8üÏÖÿ„2J$fd0373f7-2c82-419a-bb3b-7c8e07ddf260
+	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÔÈãÿ„2J$dbd5be65-1c9c-4a4c-bf17-16d4594d941c
 q
-java:S1121_".Extract the assignment out of this expression.(¢ê„•8ÌĞÖÿ„2J$71746fd4-f495-4bab-a708-b28feeaae90d
+java:S1121_".Extract the assignment out of this expression.(¢ê„•8ÌĞÖÿ„2J$ab2111c5-4df3-4134-9f28-bcca87802a7e
 Ü
-java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¢ÊÙÓ8éĞÖÿ„2J$65a9da9b-8028-4225-925d-ce835a8bd6fe
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¢ÊÙÓ8éĞÖÿ„2J$ba37a4b4-af0d-4111-8b13-59623a09094b
 z
-java:S1128"2Remove this unused import 'edu.icet.bo.BoFactory'.(»é»Šşÿÿÿÿ8¿şˆˆ2J$0ad1ab5b-c2dd-4e6a-9e5a-264461a0decf
+java:S1128"2Remove this unused import 'edu.icet.bo.BoFactory'.(»é»Šşÿÿÿÿ8¿şˆˆ2J$2b7f513f-00dd-42e7-bf1f-c9203ce68567
 }
-java:S1128":Remove this unused import 'edu.icet.bo.custom.CustomerBo'.(Ã­Ğ¯8Àşˆˆ2J$d949f094-e871-46a9-8475-4146fe58dd45
+java:S1128":Remove this unused import 'edu.icet.bo.custom.CustomerBo'.(Ã­Ğ¯8Àşˆˆ2J$42b1b675-d002-45f5-b577-08b490567ea7
 t
-java:S1128"1Remove this unused import 'edu.icet.util.BoType'.(çÚ¡¹8Àşˆˆ2J$2769eb11-7336-4cd5-bd3b-28841f4ae49d
+java:S1128"1Remove this unused import 'edu.icet.util.BoType'.(çÚ¡¹8Àşˆˆ2J$00ff5c9c-7f46-4824-bdbc-cdea2c640827

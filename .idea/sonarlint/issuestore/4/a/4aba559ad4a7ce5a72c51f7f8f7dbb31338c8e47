@@ -1,12 +1,14 @@
 
-	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8óõ¸Ö‚2J$0615f5fd-c8b0-4a3e-b82f-50521ca6c7e6
-	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ôõ¸Ö‚2J$92d604e7-e3d6-4c3f-9060-52808a2765e4
-	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ôõ¸Ö‚2J$e8a1ae0b-4746-4e80-9e13-f669d5029e01
+	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8óõ¸Ö‚2J$3093a2b4-046d-4592-8878-75427d46e71f
+	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ôõ¸Ö‚2J$264fe2bb-5d9d-42d7-9327-994843fd23ff
+	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ôõ¸Ö‚2J$0da276b9-7fff-492d-bf41-63230ce74fec
 q
-java:S1121U".Extract the assignment out of this expression.(©µÀ8õõ¸Ö‚2J$a4c78818-5d9f-4087-8a93-198590f25938
+java:S1121U".Extract the assignment out of this expression.(©µÀ8õõ¸Ö‚2J$f3e06e16-7a9c-4e30-b48b-7230b12ff73b
 p
-java:S5411C"(Use a primitive boolean expression here.(üñ€Òüÿÿÿÿ8÷õ¸Ö‚2J$98a42d03-b715-467a-8772-a5e4b1849e2d
+java:S5411C"(Use a primitive boolean expression here.(üñ€Òüÿÿÿÿ8÷õ¸Ö‚2J$abadd57e-ec02-481f-92df-dd93034be4cc
 Ü
-java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Ì½ÍÒ8†ö¸Ö‚2J$e45e677b-9eae-4271-b476-d8cc846d4d83
-G	java:S106B"+Replace this use of System.out by a logger.(şêû®8¹ˆâÖ‚2
-G	java:S106D"+Replace this use of System.out by a logger.(şêû®8¹ˆâÖ‚2
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Ì½ÍÒ8†ö¸Ö‚2J$ae1ea428-65c7-4be0-9d04-9faaa9b7b022
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8¡¤ŠŠ2J$0996f585-80dd-407b-bf1d-459ac8fc6828
+~	java:S1255"<This block of commented-out lines of code should be removed.(óÀö8ƒ¥ŠŠ2J$c01e72b6-e27e-40c9-8fc9-bac8e0bb176f
+m	java:S106B"+Replace this use of System.out by a logger.(şêû®8¹ˆâÖ‚2J$cb039008-6d3f-4564-8ef9-e1e36687fd73
+m	java:S106D"+Replace this use of System.out by a logger.(şêû®8¹ˆâÖ‚2J$4bbc723b-d969-4be4-8ed4-7a829a994657

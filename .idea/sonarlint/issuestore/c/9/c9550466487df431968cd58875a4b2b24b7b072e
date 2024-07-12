@@ -1,10 +1,10 @@
 
-	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ò­›¹‚2J$b8bb3abf-9a98-4da3-8ea9-85d86faf98ac
+	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ò­›¹‚2J$860b0e66-af80-436d-b207-be9c56711982
 q
-java:S1121,".Extract the assignment out of this expression.(Ã“áÂ8Ó­›¹‚2J$821f9aab-0873-43fe-a7b5-cbfd2dc9582c
+java:S1121,".Extract the assignment out of this expression.(Ã“áÂ8Ó­›¹‚2J$f8774a53-4b4b-4e68-b109-92144edcd22e
 k
-java:S5411"(Use a primitive boolean expression here.(¦À¡8Ó­›¹‚2J$ee04f90d-0c1a-4d15-b6c0-1ef15c97a3a4
+java:S5411"(Use a primitive boolean expression here.(¦À¡8Ó­›¹‚2J$3cdb4592-80bb-444b-adf3-5751833847bd
 Ü
-java:S6548	"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(âØ¡®8Ú­›¹‚2J$482bd6ef-42f4-4634-9326-9d9af74b6ac3
-m	java:S106"+Replace this use of System.out by a logger.(Â§›î8á“Ú¹‚2J$5227cfc5-dc31-4be0-9005-7e3b8136a307
-m	java:S106"+Replace this use of System.out by a logger.(Â§›î8£…İ¹‚2J$7e7ea7e9-4129-4973-a7ac-78d2edaa4521
+java:S6548	"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(âØ¡®8Ú­›¹‚2J$4c3949d3-bfb7-4fc7-90ea-b4b88c0c6af1
+m	java:S106"+Replace this use of System.out by a logger.(Â§›î8á“Ú¹‚2J$51d7ad1f-b2fd-4bc7-981c-d656841dbbc3
+m	java:S106"+Replace this use of System.out by a logger.(Â§›î8£…İ¹‚2J$7600aa35-7e9b-4730-ba93-3854b1436f43

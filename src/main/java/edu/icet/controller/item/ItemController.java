@@ -1,7 +1,7 @@
 package edu.icet.controller.item;
 
 import edu.icet.util.CrudUtil;
-import edu.icet.dto.Items;
+import edu.icet.dto.Item;
 import edu.icet.dto.OrderDetail;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
@@ -16,19 +16,19 @@ public class ItemController {
 
     private ItemController(){}
 
-    public Items searchItem(String itemCode ){
+    public Item searchItem(String itemCode ){
         try {
 
             ResultSet resultSet = CrudUtil.execute("SELECT * FROM item WHERE itemCode='"+itemCode+"'" );
             while (resultSet.next()){
 
-                return new Items(
-                        resultSet.getString(1),
-                        resultSet.getString(2),
-                        resultSet.getString(3),
-                        resultSet.getDouble(4),
-                        resultSet.getInt(5)
-                );
+//                return new Item(
+//                        resultSet.getString(1),
+//                        resultSet.getString(2),
+//                        resultSet.getString(3),
+//                        resultSet.getDouble(4),
+//                        resultSet.getInt(5)
+//                );
 
             }
 
@@ -38,20 +38,20 @@ public class ItemController {
         return null;
     }
 
-    public ObservableList<Items> loadItems() {
+    public ObservableList<Item> loadItems() {
 
         try {
             ResultSet resultSet = CrudUtil.execute("SELECT * FROM item");
-            ObservableList<Items> items = FXCollections.observableArrayList();
+            ObservableList<Item> items = FXCollections.observableArrayList();
             while (resultSet.next()) {
-                Items item = new Items(
-                        resultSet.getString(1),
-                        resultSet.getString(2),
-                        resultSet.getString(3),
-                        resultSet.getDouble(4),
-                        resultSet.getInt(5)
-                );
-                items.add(item);
+////                Item item = new Item(
+////                        resultSet.getString(1),
+////                        resultSet.getString(2),
+////                        resultSet.getString(3),
+////                        resultSet.getDouble(4),
+////                        resultSet.getInt(5)
+////                );
+//                items.add(item);
             }
             return items;
         } catch (ClassNotFoundException | SQLException e) {

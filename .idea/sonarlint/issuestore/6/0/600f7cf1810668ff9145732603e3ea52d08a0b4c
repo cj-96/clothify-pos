@@ -1,18 +1,16 @@
 
 w
-java:S3740&"/Provide the parametrized type for this generic.(Ó»ó×øÿÿÿÿ8¬‘Úð‡2J$13230377-4ef1-4412-a493-28f17530f294
+java:S3740/"/Provide the parametrized type for this generic.(Ó»ó×øÿÿÿÿ8ù²’³‰2J$22a502e7-1f36-4b31-9ab1-0b1d209e683b
 w
-java:S3740<"/Provide the parametrized type for this generic.(Ó»ó×øÿÿÿÿ8¬‘Úð‡2J$c60398ec-a63c-4bf2-a435-b593dfa11074
+java:S3740E"/Provide the parametrized type for this generic.(Ó»ó×øÿÿÿÿ8ú²’³‰2J$61036711-d247-424a-8bb5-458c34c5b647
 w
-java:S3740O"/Provide the parametrized type for this generic.(Ó»ó×øÿÿÿÿ8¬‘Úð‡2J$87ba96dd-c455-4af2-b1f2-a04ec2ba2037
+java:S3740X"/Provide the parametrized type for this generic.(Ó»ó×øÿÿÿÿ8ú²’³‰2J$a64e9906-6d7e-415d-978d-3ec7e02cb042
 {
-java:S1874&"3Remove this use of "createQuery"; it is deprecated.(Ó»ó×øÿÿÿÿ8ä—Úð‡2J$f252e821-c089-466a-8fc2-fcd3a568f6a7
-l	java:S1067"+Replace this use of System.out by a logger.(Ó÷îZ8æ—Úð‡2J$b01caca7-cc77-47b5-8579-6d3d92dd6362
+java:S1874/"3Remove this use of "createQuery"; it is deprecated.(Ó»ó×øÿÿÿÿ8¥³’³‰2J$2ebdb76c-69f1-49c9-bdbb-6565b5ea4cc4
+l	java:S106@"+Replace this use of System.out by a logger.(Ó÷îZ8©³’³‰2J$dd1556b8-ed25-4f17-b7aa-35ab3651baf8
 {
-java:S1874<"3Remove this use of "createQuery"; it is deprecated.(Ó»ó×øÿÿÿÿ8æ—Úð‡2J$b66441e8-535c-4cd6-bed4-3b5f1ad812f6
+java:S1874E"3Remove this use of "createQuery"; it is deprecated.(Ó»ó×øÿÿÿÿ8«³’³‰2J$65f10389-3515-4d4b-8f3a-3239b149f7d2
 {
-java:S1874O"3Remove this use of "createQuery"; it is deprecated.(Ó»ó×øÿÿÿÿ8ô—Úð‡2J$3201a1ce-52db-48ae-b433-19ff58920a49
+java:S1874X"3Remove this use of "createQuery"; it is deprecated.(Ó»ó×øÿÿÿÿ8¯³’³‰2J$23d7ec02-4a48-4cdc-b7dd-f3e1d936398d
 „
-java:S1126U"AReplace this if-then-else statement by a single return statement.(¦£´þ8¯Ûð‡2J$19f8d0b2-4186-4c4e-8989-2035ad8bb7f4
-y
-java:S1128"1Remove this unused import 'edu.icet.dao.CrudDao'.(áÈ§æûÿÿÿÿ8„€Ûð‡2J$0a926f17-5c02-4b98-abfb-12a3336099e2
+java:S1126^"AReplace this if-then-else statement by a single return statement.(¦£´þ8±³’³‰2J$bd10ccad-76a0-4f21-8200-705c9863a555

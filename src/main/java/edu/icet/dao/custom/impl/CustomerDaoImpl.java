@@ -1,7 +1,9 @@
 package edu.icet.dao.custom.impl;
 
 import edu.icet.dao.custom.CustomerDao;
+import edu.icet.dto.Customer;
 import edu.icet.entity.CustomerEntity;
+import edu.icet.entity.SupplierEntity;
 import edu.icet.util.HibernateUtil;
 import org.hibernate.Session;
 
@@ -37,6 +39,16 @@ public class CustomerDaoImpl implements CustomerDao {
 
     @Override
     public boolean delete(String id) {
+        return false;
+    }
+
+    @Override
+    public CustomerEntity get(String id) {
+        return null;
+    }
+
+    @Override
+    public boolean update(CustomerEntity dto) {
         return false;
     }
 }
