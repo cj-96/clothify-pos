@@ -1,0 +1,37 @@
+
+œ
+java:S1104"YMake txtSupplierId a static final constant or non-public and provide accessors if needed.(öÖñ8È³–Ã‰2J$31d9c33e-378c-40dd-84e0-ed35a2a10bce
+›
+java:S1104"SMake txtName a static final constant or non-public and provide accessors if needed.(¨äİìÿÿÿÿÿ8È³–Ã‰2J$44094e0d-9d6d-4705-838e-5410d2d23876
+
+java:S1104"VMake txtContact a static final constant or non-public and provide accessors if needed.(µªÔùÿÿÿÿ8È³–Ã‰2J$aa3b9d12-9568-4730-913e-1655f738400e
+œ
+java:S1104"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿ8È³–Ã‰2J$c49e438c-5c1c-48fc-963f-796a760f396a
+™
+java:S1104"VMake txtCompany a static final constant or non-public and provide accessors if needed.(Úù÷ê8È³–Ã‰2J$9dd219c7-2611-4c8e-a47d-9cd987926443
+Ÿ
+java:S1104"WMake txtSearchId a static final constant or non-public and provide accessors if needed.(êû‡şÿÿÿÿ8È³–Ã‰2J$8fdba94c-4510-4cea-886a-e0fd3f9caf1f
+›
+java:S1104"SMake btnSave a static final constant or non-public and provide accessors if needed.(Æ ‡’úÿÿÿÿ8È³–Ã‰2J$04054694-0ef6-403e-89aa-8ffcd0851c17
+
+java:S1104"UMake btnUpdate a static final constant or non-public and provide accessors if needed.(”ƒ³Šÿÿÿÿÿ8È³–Ã‰2J$1c547b2c-c0e8-4984-adbb-b273f2a9f192
+k
+java:S54117"(Use a primitive boolean expression here.(î­ÁÂ8Ê³–Ã‰2J$c502f02b-56a5-48fe-972c-b9fcb392663e
+p
+java:S5411O"(Use a primitive boolean expression here.(á†ñõûÿÿÿÿ8Ê³–Ã‰2J$bb5d1630-21a8-4b04-9651-dbebf9560510
+p
+java:S5411n"(Use a primitive boolean expression here.(á†ñõûÿÿÿÿ8Ê³–Ã‰2J$569128d7-434c-4426-823d-efa591d9ff2f
+É
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†ùàıÿÿÿÿ8ä³–Ã‰2J$c675a2d8-bc5b-48c0-909c-679360b153fd
+É
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿÏˆ£ûÿÿÿÿ8ä³–Ã‰2J$f04b07b0-bcc0-4aa8-8572-dd93d286b05f
+u
+java:S1172$"2Remove this unused method parameter "actionEvent".(áÄ´ü8é³–Ã‰2J$c54f0dff-8274-4c0f-8953-b77731f9aa7b
+z
+java:S11725"2Remove this unused method parameter "actionEvent".(Ä‰»æşÿÿÿÿ8ë³–Ã‰2J$ea25b0fb-5397-4a48-8fcd-4dbdfb54bcf0
+z
+java:S1172E"2Remove this unused method parameter "actionEvent".(¿˜å•øÿÿÿÿ8ì³–Ã‰2J$8169acd0-4578-451d-82ee-84013195239a
+u
+java:S1172W"2Remove this unused method parameter "actionEvent".(ŠÜÎ£8î³–Ã‰2J$d05b0388-38d3-429c-baf8-a6c631d18563
+t
+java:S1172d"2Remove this unused method parameter "actionEvent".(õİŞ78ï³–Ã‰2J$18d0f61b-f79d-4b71-9335-8127691a2f00

@@ -1,0 +1,75 @@
+
+w
+java:S3740 "/Provide the parametrized type for this generic.(ˆãì‹ùÿÿÿÿ8ˆ°‘•Š2J$10488a2c-fe72-4382-8aea-504c36c288a4
+w
+java:S3740!"/Provide the parametrized type for this generic.(ô­ĞÅşÿÿÿÿ8‰°‘•Š2J$90a6f20e-7bf4-47fe-a56d-ce512d6b997a
+r
+java:S3740("/Provide the parametrized type for this generic.(ËàÑ¤8‰°‘•Š2J$dfffaac1-1cdf-456a-a60e-618bfc8a3a06
+Ÿ
+java:S1104"WMake txtItemCode a static final constant or non-public and provide accessors if needed.(øÜÜ¡üÿÿÿÿ8Š°‘•Š2J$77f95e5d-51c3-4c8a-b255-c538391634eb
+›
+java:S1104"SMake txtName a static final constant or non-public and provide accessors if needed.(¨äİìÿÿÿÿÿ8Š°‘•Š2J$b16f1a38-08c7-45c9-a119-738dc5488fe3
+¢
+java:S1104"ZMake txtDescription a static final constant or non-public and provide accessors if needed.(«’›™ùÿÿÿÿ8Š°‘•Š2J$ace95b8e-776a-41b6-9c28-f596afbc922c
+œ
+java:S1104"YMake txtSearchCode a static final constant or non-public and provide accessors if needed.(÷®ß8Š°‘•Š2J$7c50af79-31bd-4aba-be03-04b1b0fc6161
+›
+java:S1104"SMake btnSave a static final constant or non-public and provide accessors if needed.(Æ ‡’úÿÿÿÿ8‹°‘•Š2J$4594aa83-528e-45d9-88cd-0055b19df963
+
+java:S1104"UMake btnUpdate a static final constant or non-public and provide accessors if needed.(”ƒ³Šÿÿÿÿÿ8‹°‘•Š2J$7e1596b7-d7a8-4dcb-a1c9-64d4575f7b73
+Ÿ
+java:S1104 "WMake cmbCategory a static final constant or non-public and provide accessors if needed.(ˆãì‹ùÿÿÿÿ8‹°‘•Š2J$30e18a1f-cc9a-475f-b9fb-2d034b0c116d
+Ÿ
+java:S1104!"WMake cmbSupplier a static final constant or non-public and provide accessors if needed.(ô­ĞÅşÿÿÿÿ8‹°‘•Š2J$3c31cfd3-d11a-413a-924c-5a3b14ffd9c2
+›
+java:S1104""SMake txtQtyS a static final constant or non-public and provide accessors if needed.(¦÷÷œüÿÿÿÿ8‹°‘•Š2J$775a4332-f820-4f0b-bba3-d783ccfac6bb
+£
+java:S1104#"[Make txtBuyingPriceS a static final constant or non-public and provide accessors if needed.(ÌËËÅûÿÿÿÿ8‹°‘•Š2J$2e0fa08d-9e36-4df4-aa54-61af61c7a200
+¤
+java:S1104$"\Make txtSellingPriceS a static final constant or non-public and provide accessors if needed.(ışÿÿÿÿ8‹°‘•Š2J$a041543b-8971-4415-b16e-9d93d9e0a1a0
+š
+java:S1104%"RMake txtQty a static final constant or non-public and provide accessors if needed.(„¬‘³øÿÿÿÿ8‹°‘•Š2J$16cba725-de38-4220-aa96-ee99ae1f7102
+
+java:S1104&"ZMake txtBuyingPrice a static final constant or non-public and provide accessors if needed.(ùÊô§8‹°‘•Š2J$6cdfac8b-8f03-4a22-a973-ab71e9bd0ff1
+£
+java:S1104'"[Make txtSellingPrice a static final constant or non-public and provide accessors if needed.(Çô¯Óıÿÿÿÿ8‹°‘•Š2J$b0407abb-c97e-4899-924f-3168f408a3dc
+œ
+java:S1104("YMake cmbSelectSize a static final constant or non-public and provide accessors if needed.(ËàÑ¤8‹°‘•Š2J$2939647c-c3d6-404f-b51f-fb4c57adee5b
+›
+java:S1104)"SMake txtQtyM a static final constant or non-public and provide accessors if needed.( ÜÜöıÿÿÿÿ8‹°‘•Š2J$6781ba87-c0e3-410f-9b0e-a292419c79c9
+›
+java:S1104*"SMake txtQtyL a static final constant or non-public and provide accessors if needed.(‘ªô«ùÿÿÿÿ8‹°‘•Š2J$28d92ff1-718e-4cea-9a00-aefad55fd346
+—
+java:S1104+"TMake txtQtyXL a static final constant or non-public and provide accessors if needed.(¬Ãã÷8‹°‘•Š2J$7f0f7e7a-396f-4614-8eb4-947755f84f92
+£
+java:S1104,"[Make txtBuyingPriceM a static final constant or non-public and provide accessors if needed.(±àÛ¥ıÿÿÿÿ8‹°‘•Š2J$a7d06ca5-f71a-47ce-aa31-815a91baf80f
+
+java:S1104-"[Make txtBuyingPriceL a static final constant or non-public and provide accessors if needed.(¸‰ËÏ8‹°‘•Š2J$aa0ecb94-165b-4a8e-a247-d1dd529ba385
+Ÿ
+java:S1104."\Make txtBuyingPriceXL a static final constant or non-public and provide accessors if needed.(¹ĞØâ8‹°‘•Š2J$a6a6a6f9-3d1b-48d0-9e0b-3b718e30e9af
+¤
+java:S1104/"\Make txtSellingPriceM a static final constant or non-public and provide accessors if needed.(ìòİøÿÿÿÿ8‹°‘•Š2J$745c2c31-18b2-414b-8906-9603d7646234
+
+java:S11040"\Make txtSellingPriceL a static final constant or non-public and provide accessors if needed.(•¨Êg8‹°‘•Š2J$3b178675-cf41-4ad3-8ca2-7c4d00c1d8fb
+¥
+java:S11041"]Make txtSellingPriceXL a static final constant or non-public and provide accessors if needed.(õ°ê¸ÿÿÿÿÿ8‹°‘•Š2J$1073c874-5313-41e2-87ff-4d1740a71f6a
+Ä
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áÄ´ü8°°‘•Š2J$c139fa33-ea3e-4f1a-83b4-ed6e734e9d35
+É
+java:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä‰»æşÿÿÿÿ8°°‘•Š2J$b1287fb3-0d0f-4c6e-9403-353df4cd4562
+É
+java:S1186V"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†ùàıÿÿÿÿ8°°‘•Š2J$b97f0346-4abd-45c9-be17-c4405bd0b000
+É
+java:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿÏˆ£ûÿÿÿÿ8°°‘•Š2J$b89ba96b-9f2f-407b-9cf7-9032c34f482c
+É
+java:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿˜å•øÿÿÿÿ8°°‘•Š2J$ca293f80-891b-4f90-8573-23eae63a6c9d
+Ä
+java:S1186_"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŠÜÎ£8°°‘•Š2J$89cc9b1e-303d-4365-a2e9-5ffa0708e811
+Ä
+java:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃßåÊ8°°‘•Š2J$0197f8fb-d392-4adb-858f-68293d55fa97
+¢
+java:S1845b"_Rename method "cmbSelectSize" to prevent any misunderstanding/clash with field "cmbSelectSize".(ÃßåÊ8²°‘•Š2J$e686f489-e2fb-49bb-8f17-9e93d3938268
+t
+java:S1172F"2Remove this unused method parameter "actionEvent".(õİŞ78·°‘•Š2J$26b1ab02-cd5d-4a1f-afd7-4659f54e6e90
+z
+java:S1172f"2Remove this unused method parameter "actionEvent".(»…ä«ùÿÿÿÿ8»°‘•Š2J$de707d30-f803-44f0-9e32-914e0ccc73e7

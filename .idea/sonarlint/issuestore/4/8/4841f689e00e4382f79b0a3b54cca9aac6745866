@@ -1,0 +1,11 @@
+
+“
+java:S1104"WMake txtPassword a static final constant or non-public and provide accessors if needed.(Óšº÷J$334d42af-e32f-4ff3-8cd0-1cd1aeba3d6d
+•
+java:S1104"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿJ$2ea69d5c-0bc7-47f9-9a29-cf315409123d
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Íƒ®ÿÿÿÿÿJ$51340262-7090-42d1-a01c-c69c69bb8ca8
+½
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±Áº¸J$a134b974-5416-454d-885e-3005687dd7ec
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÙõášşÿÿÿÿJ$0b88753e-f2b2-4ea1-b05a-f1de54021798

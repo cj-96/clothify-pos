@@ -1,0 +1,54 @@
+
+p
+java:S3740""/Provide the parametrized type for this generic.(¿¤ÎâùÿÿÿÿJ$77ffb1d8-94db-45c6-9dfa-9c5b52e696e7
+˜
+java:S1104"\Make txtAdminUserName a static final constant or non-public and provide accessors if needed.( ……àJ$9c25c9da-ddc3-4d62-8c39-651b5abf67a5
+˜
+java:S1104"WMake txtUserName a static final constant or non-public and provide accessors if needed.(÷‹Ú’üÿÿÿÿJ$8e1e266e-1ef3-459e-ba3a-98de8f125a70
+˜
+java:S1104 "\Make txtAdminPassword a static final constant or non-public and provide accessors if needed.(×ĞÜÅJ$72df6048-6e06-45c0-b0cb-1a26452ed272
+•
+java:S1104!"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿJ$8cc64c00-9818-4640-99b4-8e2be1ac5e2d
+˜
+java:S1104""WMake cmbUserType a static final constant or non-public and provide accessors if needed.(¿¤ÎâùÿÿÿÿJ$086eec30-617d-46f7-b238-3726984a8a69
+“
+java:S1104#"WMake txtPassword a static final constant or non-public and provide accessors if needed.(Óšº÷J$99bb0f26-12be-45e1-a0a5-e1d05cf8757b
+Ÿ
+java:S1104$"^Make txtConfirmPassword a static final constant or non-public and provide accessors if needed.(Ö İıøÿÿÿÿJ$22af2cfd-f670-4701-8922-a1d78ce1b937
+˜
+java:S1104%"WMake btnRegister a static final constant or non-public and provide accessors if needed.(·Ïê»ÿÿÿÿÿJ$f1a56fe0-bb62-4f20-b502-d9748848ca15
+d
+java:S5411@"(Use a primitive boolean expression here.(Ú÷§êJ$c740b5a2-5b0f-4da5-8830-a96a2ffdf51b
+i
+java:S5411^"(Use a primitive boolean expression here.(á†ñõûÿÿÿÿJ$780b982d-1ad4-4fc2-bccc-e5cff7ea3287
+Â
+java:S1186e"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†ùàıÿÿÿÿJ$63973af0-80fd-43c7-a09b-33466323cf9a
+w	java:S125+"<This block of commented-out lines of code should be removed.(È¢ÿ¡J$a2b470d3-84f0-4453-af02-b8aac8883b83
+s
+java:S1172="2Remove this unused method parameter "actionEvent".(µ¸“‰üÿÿÿÿJ$6552e46d-b6b2-4fb0-a88e-ff3ed5f1c2b0
+|	java:S125B"<This block of commented-out lines of code should be removed.(Ï»ˆßüÿÿÿÿJ$54c40e56-c3c8-41d9-861b-4f74c3bd7b22
+n
+java:S1172M"2Remove this unused method parameter "actionEvent".(Õº€ÔJ$374398a3-a29d-433d-986c-af1441675835
+s
+java:S1172R"2Remove this unused method parameter "actionEvent".(Úó¥üøÿÿÿÿJ$b796df7e-1ecb-43a0-8e27-e544df93007d
+f	java:S106S"+Replace this use of System.out by a logger.(×Ó½‡J$3be1997b-3e12-473a-8504-64ccf7dd4149
+f	java:S106Z"+Replace this use of System.out by a logger.(Ø¼¢ƒJ$9f228c5e-c6aa-4427-9abc-82d2fbd3d88c
+s
+java:S1172h"2Remove this unused method parameter "actionEvent".(Â®ö¬ıÿÿÿÿJ$b5e805d7-1b4c-47f0-97d2-68aada5f511d
+e	java:S106i"+Replace this use of System.out by a logger.(–áxJ$15535e35-d348-4e48-8de3-04278515e3f5
+k
+java:S1172n"/Remove this unused method parameter "keyEvent".(ô®‹ˆJ$439199c8-db98-4901-a261-cf754e18b8f0
+v
+java:S1128":Remove this unused import 'edu.icet.bo.custom.CustomerBo'.(Ã­Ğ¯J$759eafcb-633e-42f6-bef2-35a6ae53bda7
+t
+java:S1128"8Remove this unused import 'edu.icet.util.HibernateUtil'.( Í„ÁJ$0e170d46-c013-4326-9553-4422537bb405
+
+java:S1128"@Remove this unused import 'javafx.scene.input.InputMethodEvent'.(œ“•„ıÿÿÿÿJ$9bfa8265-a4ed-4332-bc55-374b323461b3
+s
+java:S1128"2Remove this unused import 'org.hibernate.Session'.(È¹›§ùÿÿÿÿJ$31f9d541-bfce-4346-b6a7-2d10a654ffe2
+
+java:S1128"ERemove this unused import 'org.hibernate.annotations.processing.SQL'.(‘ŞúƒJ$72b679b9-0015-4a6f-889d-dd1f5af140a8
+w
+java:S1128"6Remove this unused import 'org.hibernate.query.Query'.(¤— ´ûÿÿÿÿJ$2b620988-e3c2-4849-ba04-ad590e257aad
+l
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿJ$d13bcf8a-85b5-4327-a5f3-c1d62f669e0a

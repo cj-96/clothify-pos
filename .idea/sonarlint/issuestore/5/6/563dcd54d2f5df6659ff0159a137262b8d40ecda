@@ -1,0 +1,39 @@
+
+	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8…Äëâ‡2J$31f91b85-6d21-4288-8124-daefadc39b4e
+_
+java:S1643a"Use a StringBuilder instead.(Â¨ÂÎ8ˆÄëâ‡2J$173591a3-9cf7-4653-858a-095aeae34eda
+œ
+java:S1104"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿ8‰Äëâ‡2J$f3ac6ef9-1265-42e4-b311-ee897d63a356
+•
+java:S1104"RMake txtOtp a static final constant or non-public and provide accessors if needed.(¢ãƒ„8‰Äëâ‡2J$866f6e28-68e9-4429-8cbb-b73a4dea475f
+–
+java:S1104"SMake btnSave a static final constant or non-public and provide accessors if needed.(çˆ©Õ8‰Äëâ‡2J$1cc2d6e3-c7b0-405d-92a1-81eab186f9da
+š
+java:S1104"WMake txtPassword a static final constant or non-public and provide accessors if needed.(Óšº÷8‰Äëâ‡2J$bbbabde7-6d1e-4548-8576-1c7033604f25
+¦
+java:S1104 "^Make txtConfirmPassword a static final constant or non-public and provide accessors if needed.(Ö İıøÿÿÿÿ8‰Äëâ‡2J$62b84270-c565-42bb-8770-9df94bf12059
+k
+java:S54111"(Use a primitive boolean expression here.(¥”õì8ŠÄëâ‡2J$e14927f5-59ba-4219-b997-a5c380ad0c58
+Ê
+java:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†ùàıÿÿÿÿ8³Äëâ‡2J$0b1bf2fe-cd68-44fd-b260-0e7ad102d2c3
+u
+java:S1172/"2Remove this unused method parameter "actionEvent".(…²Âä8·Äëâ‡2J$52d760c7-2053-4368-a3a4-5b670d73c31c
+}
+java:S1161G":Add the "@Override" annotation above this method signature(‡èú×8½Äëâ‡2J$61704bd0-16dd-4cdc-8900-882e326e7d9e
+f
+java:S2119^"Save and re-use this "Random".(ÃÄ™úÿÿÿÿ8ÃÄëâ‡2J$4569a035-b909-4ecc-a499-86d7aa69fcb1
+r	java:S106d"+Replace this use of System.out by a logger.(Ã×¡äûÿÿÿÿ8ÄÄëâ‡2J$7069ff7c-9ca2-4e09-9982-ec98bda42d23
+z
+java:S1172h"2Remove this unused method parameter "actionEvent".(¡ÍÜ˜úÿÿÿÿ8ÅÄëâ‡2J$bb3f3e18-afa8-438b-a7b7-4954011145a0
+t
+java:S1172w"2Remove this unused method parameter "actionEvent".(õİŞ78ÇÄëâ‡2J$0eea2675-dcb2-4ed8-9ea4-615362227397
+s
+java:S1172‰"/Remove this unused method parameter "keyEvent".(ô®‹ˆ8ÈÄëâ‡2J$bdbdf59d-35e4-439b-aaf4-c5aa93da4b1c
+v
+java:S1128	"3Remove this unused import 'edu.icet.util.CrudUtil'.(Ô›8Úäåğ‡2J$cf9dab01-2266-4426-abdd-3b538b777d77
+‚
+java:S1128"?Remove this unused import 'javafx.scene.control.PasswordField'.(êú´Ë8Úäåğ‡2J$5479cb38-4a4b-4058-9380-5f230f6940b2
+€
+java:S1128"=Remove this unused import 'javafx.scene.control.RadioButton'.(¹ü˜–8Úäåğ‡2J$ead325da-9cf2-4a6e-8bfc-9dfdc9099649
+u
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Úäåğ‡2J$30821533-28c6-44a3-ba2e-942b64d83a64
